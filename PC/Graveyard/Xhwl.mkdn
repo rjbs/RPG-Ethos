@@ -1,0 +1,13 @@
+
+## Xhwl
+
+    Player: NPC
+    Race: Gnoll
+    Class: Ranger
+
+Xhwl was among the original five members of the party, sent by the gnolls to
+meet with Mankind.  He was killed during a weird event during a sandstorm,
+only about a day before reaching Teber.  His companions brought him along and
+handed him over to the humans to see if he could be raised.  They fled the
+city before his body could be recovered.
+
