@@ -1,0 +1,21 @@
+
+## Orc
+
+    Player: Tom
+    Race: Orc
+    Class: Fighter
+
+## Stuff
+
+* Waterproof cloak
+* Black spike
+* Bastard sword +1, “Arcalar”
+* Longbow, quiver, 30 arrows
+* Necklace (gift from Um-Oren)
+
+* Backpack
+  * Bedroll
+  * 2 canteens
+  * tent
+  * 89 gp, 50 sp
+
