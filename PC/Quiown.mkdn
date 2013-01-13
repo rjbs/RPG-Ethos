@@ -10,11 +10,7 @@
 * Ritual dagger
 * Boots, from human soldier
 * Elven clothing (from elves @ teleportation circle)
-* Bag of Treasure
-    * Three-headed flail
-    * Staff from juggernaut (cenobite’s staff)
-    * Staff from Keralon
-    * question-answering book
+* question-answering book
 
 * Backpack
     * two-man tent
