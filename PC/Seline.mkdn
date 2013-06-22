@@ -10,12 +10,13 @@
 * Silver Sword
 * Dagger, from human soldier
 * Clothes, from human soldier
-* Partial chain mail armor, from human soldier
+* Partial chain mail armor, greaves from human soldier
 * Boots
 * Necklace (gift from Um Oren)
 
 * Backpack
     * Bedroll
+    * tent
     * 2 canteens
     * Tinderbox
     * Dice
