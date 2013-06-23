@@ -7,21 +7,7 @@
 
 ## Stuff
 
-* Silver Sword
-* Dagger, from human soldier
-* Clothes, from human soldier
-* Partial chain mail armor, greaves from human soldier
-* Boots
+* cloak
+* short sword
+* Longbow, quiver, 20 arrows
 * Necklace (gift from Um Oren)
-
-* Backpack
-    * Bedroll
-    * tent
-    * 2 canteens
-    * Tinderbox
-    * Dice
-    * 113 gp, 50 sp
-    * wooden carving of Tiamat
-    * fletching kit
-    * sewing needles and thread
-    * 5 torches
