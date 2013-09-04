@@ -5,6 +5,17 @@
     Race: Gith
     Class: Rogue
 
+## Feats
+
+**Disengage**  •  1 Awesome Point  •  The character can disengage from combat
+as a free action.
+
+**Perfect Feint**  •  2 Awesome Points  •  The character can disengage from
+combat as an interrupt.
+
+**Trick Strike**  •  1 Awesome Point  •  In addition to normal damage, add an
+exploding 1d4 of damage.
+
 ## Stuff
 
 * cloak

@@ -5,6 +5,18 @@
     Race: Orc
     Class: Fighter
 
+## Feats
+
+**Brute Strike**  •  1 Awesome Point  •  The next attack, should it hit, will
+do double damage.
+
+**Cleave**  •  1 Awesome Point  •  If you hit your target, you can also strike
+a target adjacent to the original target, dealing half damage.  Keep dealing
+damage to subsequent targets until no adjacent target is available or the
+damage has reached zero.
+
+**Warrior's Surge**  •  1 Awesome Point  •  If your attack hits, regain 2d6 hp.
+
 ## Stuff
 
 * cloak
